@@ -1,0 +1,918 @@
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B # #
+# # ## # #
+#      # #
+# ## ### #
+# P  ### #
+########A#
+
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B # #
+# # ## # #
+#      # #
+# ## ### #
+# P  ###A#
+########S#
+
+After command: MOVE_F, Steps: 1, Points: 0, Position: (9, 8)
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B # #
+# # ## # #
+#      # #
+# ## ###A#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 2, Points: 0, Position: (8, 8)
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B # #
+# # ## # #
+#      #A#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 3, Points: 0, Position: (7, 8)
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B # #
+# # ## #A#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 4, Points: 0, Position: (6, 8)
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## # #
+# # #B #A#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 5, Points: 0, Position: (5, 8)
+##########
+E       P#
+# ###### #
+# #B   # #
+# # ## #A#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 6, Points: 0, Position: (4, 8)
+##########
+E       P#
+# ###### #
+# #B   #A#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 7, Points: 0, Position: (3, 8)
+##########
+E       P#
+# ######A#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 8, Points: 0, Position: (2, 8)
+##########
+E       P#
+# ######A#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: PUSH, Steps: 8, Points: 0, Position: (2, 8)
+##########
+E       P#
+# ######A#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+E       A#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 9, Points: 0, Position: (1, 8)
+##########
+E       A#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+E       A#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+E      AP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 10, Points: 0, Position: (1, 7)
+##########
+E     AFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 11, Points: 0, Position: (1, 6)
+##########
+E    AFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 12, Points: 0, Position: (1, 5)
+##########
+E   AFFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 13, Points: 0, Position: (1, 4)
+##########
+E  AFFFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 14, Points: 0, Position: (1, 3)
+##########
+E AFFFFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 15, Points: 0, Position: (1, 2)
+##########
+EAFFFFFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 16, Points: 0, Position: (1, 1)
+##########
+EAFFFFFFP#
+# ######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#A######F#
+# #B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 17, Points: 0, Position: (2, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#A#B   #F#
+# # ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 18, Points: 0, Position: (3, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#A# ## #F#
+# # #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 19, Points: 0, Position: (4, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#A# #B #F#
+# # ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 20, Points: 0, Position: (5, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#A# ## #F#
+#      #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 21, Points: 0, Position: (6, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F# ## #F#
+#A     #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 22, Points: 0, Position: (7, 1)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F# ## #F#
+#A     #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F# ## #F#
+#FA    #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 23, Points: 0, Position: (7, 2)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F# ## #F#
+#FFA   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 24, Points: 0, Position: (7, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F# ## #F#
+#FFA   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F# #B #F#
+#F#A## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 25, Points: 0, Position: (6, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F# ## #F#
+#F#A#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 26, Points: 0, Position: (5, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#B   #F#
+#F#A## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 27, Points: 0, Position: (4, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#A   #F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_F, Steps: 28, Points: 0, Position: (3, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#A   #F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FA  #F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 29, Points: 0, Position: (3, 4)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFA #F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 30, Points: 0, Position: (3, 5)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFA#F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 31, Points: 0, Position: (3, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFA#F#
+#F#F## #F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##A#F#
+#F#F#B #F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 32, Points: 0, Position: (4, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#BA#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 33, Points: 0, Position: (5, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#AF#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 34, Points: 0, Position: (5, 5)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#AF#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FA#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_R, Steps: 35, Points: 0, Position: (5, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FA#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FA#F#
+#F#F## #F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##A#F#
+#FFF   #F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 36, Points: 0, Position: (6, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFF  A#F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 37, Points: 0, Position: (7, 6)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFF  A#F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFF AF#F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 38, Points: 0, Position: (7, 5)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFAFF#F#
+# ## ###F#
+# P  ###F#
+########S#
+
+After command: MOVE_L, Steps: 39, Points: 0, Position: (7, 4)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFAFF#F#
+# ## ###F#
+# P  ###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##A###F#
+# P  ###F#
+########S#
+
+After command: MOVE_B, Steps: 40, Points: 0, Position: (8, 4)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# P A###F#
+########S#
+
+After command: MOVE_B, Steps: 41, Points: 0, Position: (9, 4)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# P A###F#
+########S#
+
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# PAF###F#
+########S#
+
+After command: MOVE_L, Steps: 42, Points: 0, Position: (9, 3)
+##########
+EFFFFFFFP#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# AFF###F#
+########S#
+
+After command: MOVE_L, Steps: 43, Points: 5, Position: (9, 2)
+##########
+EFFFFFFFP#
+#F######A#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: BACKTRACK, Steps: 44, Points: 5, Position: (2, 8)
+##########
+EFFFFFFFP#
+#F######A#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+##########
+EFFFFFFFA#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_F, Steps: 45, Points: 10, Position: (1, 8)
+##########
+EFFFFFFFA#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+##########
+EFFFFFFFA#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+##########
+EFFFFFFAF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 46, Points: 10, Position: (1, 7)
+##########
+EFFFFFAFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 47, Points: 10, Position: (1, 6)
+##########
+EFFFFAFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 48, Points: 10, Position: (1, 5)
+##########
+EFFFAFFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 49, Points: 10, Position: (1, 4)
+##########
+EFFAFFFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 50, Points: 10, Position: (1, 3)
+##########
+EFAFFFFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 51, Points: 10, Position: (1, 2)
+##########
+EAFFFFFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 52, Points: 10, Position: (1, 1)
+##########
+AFFFFFFFF#
+#F######F#
+#F#FFFF#F#
+#F#F##F#F#
+#F#F#FF#F#
+#F#F##F#F#
+#FFFFFF#F#
+# ##F###F#
+# FFF###F#
+########S#
+
+After command: MOVE_L, Steps: 53, Points: 10, Position: (1, 0)

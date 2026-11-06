@@ -1,0 +1,47 @@
+RP 1 8
+MOVE_F
+
+PUSH
+
+MOVE_F
+
+RP 1 7
+MOVE_L
+
+RP 1 6
+MOVE_B
+
+RP 1 2
+MOVE_R
+
+RP 1 4
+MOVE_F
+
+RP 1 3
+MOVE_R
+
+RP 1 2
+MOVE_B
+
+MOVE_L
+
+MOVE_R
+
+RP 1 2
+MOVE_B
+
+RP 1 2
+MOVE_L
+
+RP 1 2
+MOVE_B
+
+RP 1 2
+MOVE_L
+
+BACKTRACK
+
+MOVE_F
+
+RP 1 8
+MOVE_L
